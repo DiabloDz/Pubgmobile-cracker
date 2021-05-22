@@ -1,0 +1,9 @@
+Hello <3 & thnx for using my script 
+
+sysreq : python2.7 or python3
+ commands : 
+     1 / Linux & Termux (android)  : python run.py 
+     2 / Windows : run.py 
+
+
+     Enjoy 
